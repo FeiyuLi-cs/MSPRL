@@ -23,7 +23,7 @@ pytorch=1.10.0 torchvision=0.11.1 cudatoolkit=11.3
 ```
 
 ## Demo <a name="demo"></a>
-demo images in ```img/demo/``` folder, and the output images in ```img/``` folder.
+demo images in ```demo/halftone/``` folder, and the output images in ```demo/output/``` folder.
 ```shell
 python demo.py
 ```
